@@ -1,6 +1,6 @@
 # Coding Principles
 
-Guidelines for production code in ModelOpt. Key values: simplicity, modularity,
+Guidelines for production code in this repository. Key values: simplicity, modularity,
 and conciseness.
 
 ## Principles

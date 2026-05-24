@@ -19,3 +19,7 @@ This is a reference repo; there is no build or install step.
    `CLAUDE.md`, `AGENTS.md`, or `CURSOR.md`.
 4. When the agent makes a repeatable production-quality mistake, add a short,
    general guideline that would prevent that class of mistake next time.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE).
